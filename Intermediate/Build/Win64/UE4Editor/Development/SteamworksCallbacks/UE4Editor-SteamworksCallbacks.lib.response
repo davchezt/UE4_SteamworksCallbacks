@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SteamworksCallbacks.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\Unreal Projects\ProjectSpaceWars\Intermediate\Build\Win64\ProjectSpaceWarsEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Documents\Unreal Projects\ProjectSpaceWars\Plugins\SteamworksCallbacks\Intermediate\Build\Win64\UE4Editor\Development\SteamworksCallbacks\Module.SteamworksCallbacks.cpp.obj"
+"D:\Documents\Unreal Projects\ProjectSpaceWars\Plugins\SteamworksCallbacks\Intermediate\Build\Win64\UE4Editor\Development\SteamworksCallbacks\Module.SteamworksCallbacks.gen.cpp.obj"
+"D:\Documents\Unreal Projects\ProjectSpaceWars\Plugins\SteamworksCallbacks\Intermediate\Build\Win64\UE4Editor\Development\SteamworksCallbacks\PCLaunch.rc.res"
+/OUT:"D:\Documents\Unreal Projects\ProjectSpaceWars\Plugins\SteamworksCallbacks\Intermediate\Build\Win64\UE4Editor\Development\SteamworksCallbacks\UE4Editor-SteamworksCallbacks.lib"
