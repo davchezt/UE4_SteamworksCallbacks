@@ -14,8 +14,8 @@ Documentation: https://ue4-steamworks-api.readthedocs.io/en/latest/SetUp.html
 - Steam user entering new lobby event
 - Steam lobby invite event
 # Steam User Callbacks
-- Get Steam authorized session ticket event (used to validate user's session)
-- Steam microtransation authorization event (used to determine success of microtransaction)
+- Get Steam authorized session ticket event (used to validate user's session https://partner.steamgames.com/doc/webapi/ISteamUserAuth#AuthenticateUserTicket)
+- Steam microtransation authorization event (used to determine success of microtransaction https://partner.steamgames.com/doc/webapi/ISteamMicroTxn#InitTxn)
 - Steam server failed to connect event
 - Steam servers connected event
 - Steam servers disconnected
